@@ -1,6 +1,6 @@
-# 8-2-Journal-Portfolio-Submission
+# CS 230 - Operating Platforms
 
-**Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
+**Briefly summarize the Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 
 The Gaming Room is a client that focuses on browser and mobile game development, particularly games that seem to be party or multiplayer games. 
 
